@@ -1,2 +1,2 @@
 # pcHi-C_project
-Pipeline designed to produce promoter capture Hi-C interaction calls from a RNA-Seq data using scripts from CHiCAGO.
+Pipeline designed to conduct promoter capture Hi-C interaction calling from paired-end RNA-Seq data acquired from pcHi-C protocols.
