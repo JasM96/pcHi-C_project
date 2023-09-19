@@ -3,6 +3,6 @@ Pipeline designed to conduct promoter capture Hi-C interaction calling from pair
 
 ## Requirements
 
-• hg38 reference genome.fa file
-• Supercomputing remote server with SLURM workflow manager available
-• .fastq.gz paired-end pcH-C RNA-Seq sample files
+- hg38 reference genome.fa file
+- Supercomputing remote server with SLURM workflow manager available
+- .fastq.gz paired-end pcH-C RNA-Seq sample files
