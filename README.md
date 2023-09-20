@@ -7,7 +7,7 @@ Pipeline designed to conduct promoter capture Hi-C interaction calling using CHi
 * SLURM workflow manager available
 
 ## File Requirements
-* * reference genome.fa file
+* reference genome.fa file
 * R1.fastq.gz and R2.fastq.gz paired-end pcHi-C RNA-Seq sample files acquired from pcHi-C protocols
 
 ## Software/Package Requirements
