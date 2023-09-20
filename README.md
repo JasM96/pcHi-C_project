@@ -1,8 +1,16 @@
 # pcHi-C_project
-Pipeline designed to conduct promoter capture Hi-C interaction calling from paired-end RNA-Seq data acquired from pcHi-C protocols.
+Pipeline designed to conduct promoter capture Hi-C interaction calling using CHiCAGO.
 
-## Requirements
+## System Requirements
 
-* hg38 reference genome.fa file
-* Supercomputing remote server with SLURM workflow manager available
-* .fastq.gz paired-end pcH-C RNA-Seq sample files
+* Supercomputing remote server scratch directory
+* SLURM workflow manager available
+
+## File Requirements
+* * reference genome.fa file
+* R1.fastq.gz and R2.fastq.gz paired-end pcHi-C RNA-Seq sample files acquired from pcHi-C protocols
+
+## Software/Package Requirements
+* CHiCAGO tools
+* Python
+* Packages: BWA, Samtools, Pairtools, mosdepth, bedtools.
